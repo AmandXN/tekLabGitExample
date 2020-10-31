@@ -9,7 +9,7 @@ public class HelloTekLab {
 
 		System.out.println("Hello TekLab Students");
 		System.out.println("This is my change");
-		
+		System.out.println("This is my second commit change");
 		
 	
 	}
